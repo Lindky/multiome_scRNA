@@ -21,11 +21,11 @@ In order to run this pipeline, you have to install the following packages:
 
 ## Run the pipeline 
 
-The the exection file is the file with the ".sh" extension in ./exe folder.  
+The the exection file is the file with the ".sh" extension in **./exe** folder.  
 The number of each file indicating the order of analysis.
 
 
-The scripts used in the exection file are saved under the ./src folder.
+The scripts used in the exection file are saved under the **./src** folder.
 
 
 
